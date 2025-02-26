@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		69,
+		108,
+		24,
+		24
+	],
+	"lastmodifieddate": 1729248569.9590001,
+	"createddate": 1729248569.9590001,
+	"name": "Search",
+	"lastfounddate": 1729487929.951,
+	"ocrcapturestring": "Q",
+	"lastfoundlocation": [
+		69,
+		107,
+		24,
+		24
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 52773,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[10,6]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown VNC"
+				},
+				"name": "Search.png",
+				"connectionname": "Single System",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					69,
+					108,
+					24,
+					24
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "Q"
+			}
+	]
+}
