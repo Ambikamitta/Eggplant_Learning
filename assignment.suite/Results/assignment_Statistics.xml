@@ -2,10 +2,10 @@
 <statistics>
  <script name="BBc">
   <LastStatus>Failure</LastStatus>
-  <NumberOfRuns>16</NumberOfRuns>
-  <NumberOfFails>2</NumberOfFails>
+  <NumberOfRuns>17</NumberOfRuns>
+  <NumberOfFails>3</NumberOfFails>
   <FirstRun>2024-10-18 16:18:00 +0530</FirstRun>
-  <LastRun>2025-02-25 15:27:06 +0530</LastRun>
+  <LastRun>2025-02-26 16:35:14 +0530</LastRun>
   <TotalTimeOnSuccess>111.121000</TotalTimeOnSuccess>
  </script>
  <script name="Amazon">
@@ -72,14 +72,6 @@
   <LastRun>2024-10-16 16:26:07 +0530</LastRun>
   <TotalTimeOnSuccess>0.540000</TotalTimeOnSuccess>
  </script>
- <script name="Register">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>1</NumberOfRuns>
-  <NumberOfFails>0</NumberOfFails>
-  <FirstRun>2024-10-18 15:47:51 +0530</FirstRun>
-  <LastRun>2024-10-18 15:47:51 +0530</LastRun>
-  <TotalTimeOnSuccess>30.990000</TotalTimeOnSuccess>
- </script>
  <script name="openapp">
   <LastStatus>Success</LastStatus>
   <NumberOfRuns>1</NumberOfRuns>
@@ -87,5 +79,13 @@
   <FirstRun>2024-10-18 15:06:57 +0530</FirstRun>
   <LastRun>2024-10-18 15:06:57 +0530</LastRun>
   <TotalTimeOnSuccess>1.870000</TotalTimeOnSuccess>
+ </script>
+ <script name="Register">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2024-10-18 15:47:51 +0530</FirstRun>
+  <LastRun>2024-10-18 15:47:51 +0530</LastRun>
+  <TotalTimeOnSuccess>30.990000</TotalTimeOnSuccess>
  </script>
 </statistics>

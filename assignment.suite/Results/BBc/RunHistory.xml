@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="BBc">
+ <run>
+  <RunDate>2025-02-26 16:35:14.374 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.119000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250226_163514.374/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- typetext Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+</runHistory>
