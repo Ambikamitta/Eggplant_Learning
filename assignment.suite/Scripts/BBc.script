@@ -4,3 +4,7 @@ TypeText "https://www.bbc.com/"
 --- you should be adding validations
 TypeText return
 LogSuccess "Tested Jekins integration"
+LogSuccess "I have Updated the git Connection integration in the Git hub"
+LogSuccess "I have Updated the pooling operation in the Jenkins"
+LogSuccess "I have Updated the pooling operation in the Jenkins"
+LogSuccess "I have Updated the pooling operation in the Jenkins"
